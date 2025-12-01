@@ -1,26 +1,29 @@
-#项目文件说明（README）
-本文件夹包含 Chi-Forest 智能无人售货机项目 的相关文档，涵盖了项目介绍、用户测试、操作手册、宣传资料及团队成员信息。以下是各文件的详细说明：
+#Project Documentation (README)
+This folder contains documentation for the Chi-Forest Smart Vending Machine Project, covering project overview, user testing, operating manuals, promotional materials, and team member information. Below is a detailed description of each file:
 
 #📄 Group 32 Pre PPT.pptx
-用途：项目展示幻灯片
-内容：简要介绍项目背景、目标、遇到的困难、未来发展方向，并附有项目演示链接。适合用于项目汇报或初步展示。
+Purpose: Project presentation slides
+Content: Concise overview of project background, objectives, challenges encountered, and future development directions, including a project demo link. Suitable for project reports or initial presentations.
 
 #📄 use-test summary.pdf
-用途：用户测试总结报告（简明版）
-内容：概括用户测试的整体反馈，包括使用意愿、功能评价、改进建议等。适合快速了解用户接受度和产品潜力。
+Purpose: User testing summary report (concise version)
+Content: Summarizes overall user feedback, including willingness to use, feature evaluations, and improvement suggestions. Ideal for quickly assessing user acceptance and product potential.
 
 #📄 Group32_Instruction.pdf
-用途：智能售货机App操作手册
-内容：详细说明App的三种使用模式（游客模式、注册用户模式、管理员模式），包含登录方式、功能操作指引及管理员后台访问方式。
+Purpose: Smart Vending Machine App User Manual
+Content: Detailed explanation of the app's three usage modes (Guest Mode, Registered User Mode, Administrator Mode), including login methods, feature operation guides, and administrator backend access procedures.
 
 #📄 All_the_links&Testing_Account.docx
-用途：项目链接与测试账号汇总
-内容：列出团队成员信息、宣传视频链接、演示视频链接、App访问链接、测试账号信息及项目落地页链接。适合用于项目演示或外部测试。
+Purpose: Project Links & Testing Accounts Summary
+Content: Lists team member information, promotional video links, demo video links, app access links, testing account details, and project landing page links. Suitable for project presentations or external testing.
 
 #📄 use test summary report.pdf
-用途：用户测试详细报告（图文版）
-内容：通过图表和数据分析用户测试结果，包括使用频率、功能评价、改进方向等。适合深入理解用户需求与产品优化方向。
+Purpose: Detailed User Test Report (Graphic Version)
+Content: Analyzes user test results through charts and data, including usage frequency, feature evaluations, and improvement directions. Suitable for deep understanding of user needs and product optimization.
 
 #📄 promotion report(1).docx
-用途：项目推广报告
-内容：详细记录在小红书平台进行的推广活动，包括目标设定、执行策略、数据结果、用户反馈及后续行动计划。适合用于市场验证与推广效果分析。
+Purpose: Project Promotion Report
+Content: Detailed record of promotional activities conducted on Xiaohongshu, including goal setting, execution strategies, data results, user feedback, and follow-up action plans. Suitable for market validation and promotion effectiveness analysis.
+
+
+Translated with DeepL.com (free version)
