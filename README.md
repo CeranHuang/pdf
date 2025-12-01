@@ -1,4 +1,4 @@
-# Project Documentation (README)
+# Final Submission (README)
 This folder contains documentation for the Chi-Forest Smart Vending Machine Project, covering project overview, user testing, operating manuals, promotional materials, and team member information. Below is a detailed description of each file:
 
 # 📄 Group 32 Pre PPT.pptx
